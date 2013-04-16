@@ -1,33 +1,24 @@
 {
-    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-    "theme": "Soda Dark.sublime-theme",
-
-    // http://www.levien.com/type/myfonts/inconsolata.html
-    "font_face": "Inconsolata-dz",
-    "font_size": 13.0,
-
-    // Whitespace: Tabs, Spaces, Indenting
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true,
-    "shift_tab_unindent": true,
-    "translate_tabs_to_spaces": true,
-    "auto_complete_commit_on_tab": true,
-    
-    // Editor UI
-    "line_numbers": true,
-    "margin": 0,
-    "rulers":
-    [
-        80,
-        120
-    ],
-    "highlight_line": true,
-    "draw_indent_guides": false,
-
-    
-    "ignored_packages":
-    [
-        "Vintage",
-        "CSSLint"
-    ]
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_indent_guides": false,
+	"font_face": "Inconsolata-dz",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"CSSLint"
+	],
+	"line_numbers": true,
+	"margin": 0,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"shift_tab_unindent": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
