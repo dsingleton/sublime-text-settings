@@ -2,11 +2,18 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"CSSLint",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"Monokai Gray",
 		"Package Control",
 		"Sass",
 		"SCSS",
 		"SublimeLinter",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"TrailingSpaces"
 	]
 }
